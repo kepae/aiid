@@ -1,3 +1,5 @@
+# <TRIGGER BUILD>
+
 <p align="center">
   <a href="https://incidentdatabase.ai#gh-light-mode-only">
     <img src="./site/gatsby-site/static/logos/Blue_AIID.svg" height="100">
