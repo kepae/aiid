@@ -1,4 +1,4 @@
-# <TRIGGER BUILD>
+# <TRIGGER BUILD AGAIN>
 
 <p align="center">
   <a href="https://incidentdatabase.ai#gh-light-mode-only">
